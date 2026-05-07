@@ -1,0 +1,12 @@
+pandas
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost
+lightgbm
+imbalanced-learn
+category_encoders
+matplotlib
+seaborn
+flask
+joblib
+prometheus_client
