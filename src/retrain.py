@@ -15,6 +15,7 @@ def check_retraining(recall, drift):
     else:
         print("System stable")
 
+
 # Simulated monitoring values
 recall = 0.80
 drift = 0.75
